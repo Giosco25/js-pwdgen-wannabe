@@ -8,4 +8,4 @@ console.log(cognome_utente);
 var colore_preferito = prompt('Digita il tuo colore preferito');
 console.log(colore_preferito);
 //Scrivere sulla pagina nome-cognome-colore-20
-document.writeln('La tua password è': nome_utente + cognome_utente + colore_preferito);
+document.writeln('La tua password è': ' + nome_utente + cognome_utente + colore_preferito);
