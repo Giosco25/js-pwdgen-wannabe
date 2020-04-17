@@ -12,4 +12,3 @@ var numero = 20;
 //Scrivere sulla pagina nome-cognome-colore-20
 document.getElementById('password').innerHTML = 'La tua password è: ' + nome_utente + cognome_utente + colore_preferito + numero;
 document.getElementById('title').innerHTML = 'Benvenuto/a';
-document.getElementById('avatar').innerHTML = '';
